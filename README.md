@@ -10,7 +10,10 @@ The PC assembly commenced by taking off the sides of a computer case in order to
 
 After successfully assembling the PC, participants disassembled and reassembled it to reinforce their understanding of the process. The reassembly required participants to identify each component, reconnect cables accurately, and ensure proper alignment and secure mounting. This step highlighted the importance of precision, patience, and component compatibility.
 
-https://github.com/user-attachments/assets/70b13247-28c1-412f-88ca-78ab63d7f800
+
+https://github.com/user-attachments/assets/b026cd22-2be8-4b17-aacc-784510578fd8
+
+
 
 The PC assembly and reassembly activity was particularly beneficial as it brought practical knowledge that the participants needed to assemble and disassemble computers. Therefore, by walking through the formats systematically, the participants interactively acquired firsthand knowledge of the major elements and subcomponents, including the motherboard, CPU, RAM, GPU, and storage devices. Besides, this activity boosted their confidence when it comes to handling delicate hardware ; it also helped develop problem solving skills of routine problems arising in system assembly.
 
