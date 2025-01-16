@@ -10,8 +10,7 @@ The PC assembly commenced by taking off the sides of a computer case in order to
 
 After successfully assembling the PC, participants disassembled and reassembled it to reinforce their understanding of the process. The reassembly required participants to identify each component, reconnect cables accurately, and ensure proper alignment and secure mounting. This step highlighted the importance of precision, patience, and component compatibility.
 
-
-https://github.com/user-attachments/assets/b026cd22-2be8-4b17-aacc-784510578fd8
+![pc assemble 2](https://github.com/user-attachments/assets/187b86e6-5678-4b7f-8f42-4917bc374843)
 
 
 
